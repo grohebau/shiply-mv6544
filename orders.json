@@ -1,0 +1,47 @@
+{
+  "S70032": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Peter Herbort, Holzheimer Str. 14, 89233 Neu-Ulm, Deutschland",
+    "receiver": "Erwin Heilinger, Retzer Str. 56, 2070 Unternalb, Österreich",
+    "price": "7.500 €",
+    "description": "Hersteller: Agri Farm<br>Typ: Eurocult II Leichtgrubber<br>Baujahr: 2018<br><br>Die Maschine ist voll funktionsfähig.",
+    "address": "Erwin Heilinger<br>Retzer Str. 56<br>2070 Unternalb<br>Österreich<br>Telefon: +43 650 2040964",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "20.11.2025",
+    "deliveryDate": "27.11.2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
